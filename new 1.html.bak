@@ -1,0 +1,86 @@
+<!doct type html>
+<html>
+<head>
+    <title>Messi vs.Ronaldo</title>
+</head>
+<body>
+<div id="header">
+  <h1>Messi vs. Ronaldo</h1>
+  <p>This the website about lionel messi and cristiano Ronaldo.</p>
+</div>
+
+<div id="messi">
+  <h3><b> Lionel messi</h3></b>
+  <img src="img/messi.jpg"alt="loading..."/>
+
+<div>
+
+   <p><b><i>Lionel Messi Spanish pronunciationˈnel and ɾes mesi audio speaker iconlisten</b></i><br><strong><u>born:</strong></u> 24 June 1987.also known as Leo Messi, is an Argentine professional footballer who plays as a forward for Ligue 1 club Paris Saint-Germain and captains the Argentina national team. Often considered the best player in the world and widely regarded as one of the greatest players of all time, Messi has won a record seven Ballon awards a record six European Golden Shoes, and in 2020 was named to the Ballon Dream Team. </br><br><a target="blank" href="https://en.wikipedia.org/wiki/Lionel_Messi">learn more about Messi</a></br>
+</div>
+</div>
+<div>
+  <ul><b><i><h3>youth career</h3>
+  <li>randoli</li>
+  <li>Newell's Old boys</li>
+  <li>Barcelona</li>
+
+   </ul></b></i></p>
+</div>
+<div id="ronaldo">
+
+  <h3><b>Cristiano Ronaldo</h3></b>
+  <img src="img/ronaldo.jpg" alt=loading"/>
+</div>
+
+<div>
+  <p><b><i>Cristiano Ronaldo dos Santos Aveiro GOIH ComM (Portuguese pronunciation: [kɾiʃˈtjɐnu ʁɔˈnaɫdu]</b></i><br><strong><u> born</strong></u> 5 February 1985.</br><br><a target="blank"href="https://en.wikipedia.org/wiki/Cristiano_Ronaldo">learn more about Ronaldo</a></br>
+</div>
+<div>
+   is a Portuguese professional footballer who plays as a forward for Premier League club Manchester United and captains the Portugal national team. Often considered the best player in the world and widely regarded as one of the greatest players of all time, Ronaldo has won five Ballon d'Or awards[note 3] and four European Golden Shoes, the most by a European player. He has won 32 trophies in his career, including seven league titles, five UEFA Champions Leagues, one UEFA European Championship and one UEFA Nations League.</p>
+ </div>
+ <div>
+ <ol><b><i><h3>youth career</h3>
+  <li>Andorinha</li>
+  <li>Nacional</li>
+  <li>Sporting CP</li>
+  </div>
+  
+ <div>
+</ol>
+  <br><br>
+  <table border="1"width="100%">
+  </div>
+ <div>
+  <tr>
+  <th>statistics</th>
+  <th>Messi</th>
+  <th>Ronaldo</th>
+ </div>
+<div>
+ </tr>
+  <tr>
+  <td>appearnecs</td>
+  <td>856</td>
+  <td>1000</td>
+</div>
+ <div>
+  </tr>
+  <tr>
+  <td>Goals</td>
+  <td>667</td>
+  <td>725</td> 
+</div>
+<div id="voting-form">
+<h2>who's the best?</h2>
+<form>
+<p>your name<br><input type="text"name="name"/></p>
+<p>whos your favourite?</p>
+<select name="my-favorite">
+<option value="messi">lionel messi</option>
+<option value="messi">ronaldo</option>
+</select>
+<p>why is your favorite?<br><textarea name="why favorite"rows="8"cds="80"></textarea></p>
+<button>Submit</button>
+<br>
+</body>
+</html>
